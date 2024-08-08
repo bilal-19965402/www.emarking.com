@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /Umbraco
+Disallow: /Umbraco_Client
